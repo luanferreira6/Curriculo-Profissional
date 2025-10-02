@@ -72,6 +72,7 @@ section {
   section {
     margin: 10px;
     padding: 15px;
+    text-align: center;
   }
 
   header h1 {
@@ -79,3 +80,4 @@ section {
   }
 
 }
+
